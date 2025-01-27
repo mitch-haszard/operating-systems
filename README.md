@@ -1,2 +1,2 @@
 # operating-systems
-Assignments for OS class at NYU
+Collection of assignments for OS class at NYU.
